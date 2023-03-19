@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@escook/express-joi": "^1.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-jwt": "^8.4.1",
+    "joi": "^17.8.3",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1",
+    "nodeman": "^1.1.2",
+    "redis": "^4.6.5",
+    "socket.io": "^4.6.1"
+  }
+}
